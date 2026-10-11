@@ -14,6 +14,7 @@ This project explores employee data to uncover workforce trends, identify potent
  Power BI: Interactive dashboard development and data visualization.
   
 ### 📊 Dashboard Preview
+![image Alt](https://github.com/AisheeSaha/HR-workforce-attrition-analysis/blob/main/HR-Attrition%20Dashboard%20Screenshot.png?raw=true)
  
 ### 🎯 Business Objectives
 
