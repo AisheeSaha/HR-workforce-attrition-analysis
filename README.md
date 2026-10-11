@@ -5,18 +5,11 @@
 
 This project explores employee data to uncover workforce trends, identify potential employee attrition drivers, and evaluate factors influencing employee retention. I analyzed 1,000 employee records across 26 columns to make data driven decisions.
 
-
-### 🛠️ Tools & Technologies
-
- Python(Pandas): Data inspection and preparation, if applicable to the workflow.
- SQL Server: Data analysis, aggregations, and business queries.
- DAX: Measures and KPI calculations.
- Power BI: Interactive dashboard development and data visualization.
-  
-### 📊 Dashboard Preview
+ 
+## 📊 Dashboard Preview
 ![image Alt](https://github.com/AisheeSaha/HR-workforce-attrition-analysis/blob/main/HR-Attrition%20Dashboard%20Screenshot.png?raw=true)
  
-### 🎯 Business Objectives
+## 🎯 Business Objectives
 
 - Measure overall employee attrition and workforce trends.
 - Identify departments and job roles with higher attrition.
@@ -24,13 +17,21 @@ This project explores employee data to uncover workforce trends, identify potent
 - Explore how job satisfaction and work-life balance relate to attrition.
 - Present HR metrics through an interactive dashboard to support informed decision-making.
 
-### 📈 Dashboard Features
+## 📈 Dashboard Features
 
 - Key Performance Indicators (KPIs): Total Employees, Total Attritions, Attrition Rate, Average Job Satisfaction, Absence Days, and Years at Company.
 - Department & Job Role Analysis: Explore employee attrition across different organizational roles.
 - Employee Satisfaction Analysis: Examine job satisfaction and work-life balance patterns.
 - Overtime Analysis: Compare attrition patterns among employees with different overtime statuses.
 - Interactive Filters: Filter results by department, job role, and gender.
+
+ ## 🛠️ Tools & Technologies 
+ 
+ Python(Pandas): Data inspection and preparation.
+ SQL Server: Data analysis, aggregations, and business queries.
+ DAX: Measures and KPI calculations.
+ Power BI: Interactive dashboard development and data visualization.
+  
 
 ### 🔍 How to Explore This Project
 
