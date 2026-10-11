@@ -27,10 +27,10 @@ This project explores employee data to uncover workforce trends, identify potent
 
  ## 🛠️ Tools & Technologies 
  
- Python(Pandas): Data inspection and preparation.
- SQL Server: Data analysis, aggregations, and business queries.
- DAX: Measures and KPI calculations.
- Power BI: Interactive dashboard development and data visualization.
+ - Python(Pandas): Data inspection and preparation.
+ - SQL Server: Data analysis, aggregations, and business queries.
+ - DAX: Measures and KPI calculations.
+ - Power BI: Interactive dashboard development and data visualization.
   
 
 ### 🔍 How to Explore This Project
